@@ -2,10 +2,6 @@
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
-## Note
-
-Keep in mind that this homework is optional! However, you will gain a much greater understanding of testing and tuning different Classification models if you do complete it.
-
 ## Background
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
